@@ -1,11 +1,12 @@
 # 🚀 YouTube View Bot - YouTube Booster 5.0
 YouTube Booster is a tool designed to promote your YouTube channel, helping you increase views, engagement, and audience growth.
 
+## 🔗 More info: https://youtube-booster.space 🔗
+
 By simulating views, likes, subscriptions, and comments, it enhances your channel’s metrics and encourages YouTube to recommend and rank your videos more favorably. This creates the appearance of strong audience engagement.
 
 With YouTube Booster, you can scale your view counts as much as you need, customize view retention, and fine-tune every detail—from the probability of likes to the number of rewinds—tailoring the experience to your exact promotional goals.
 
-## 🔗 More info: https://youtube-booster.space 🔗
 ## 📺 Demo video: [https://www.youtube.com/watch?v=_UeqLR1fhO8 📺](https://www.youtube.com/watch?v=_UeqLR1fhO8)
 
 ![image](https://github.com/user-attachments/assets/0955f7e8-a86e-445c-a5e7-0a8b6a070a1b)
