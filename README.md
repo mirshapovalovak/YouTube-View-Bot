@@ -5,7 +5,7 @@ YouTube Booster is a tool designed to promote your YouTube channel, helping you 
 
 By simulating views, likes, subscriptions, and comments, it enhances your channel’s metrics and encourages YouTube to recommend and rank your videos more favorably. This creates the appearance of strong audience engagement.
 
-With YouTube Booster, you can scale your view counts as much as you need, customize view retention, and fine-tune every detail—from the probability of likes to the number of rewinds—tailoring the experience to your exact promotional goals.
+With YouTube Booster, you can scale your view counts as much as you need, customize view retention, and fine-tune every detail—from the probability of likes to the number of rewinds—tailoring the experience to your exact promotional goals. Our solution can act not only as a program to increase views, but also as a YouTube subscriber bot.
 
 ## 📺 Demo video: [https://www.youtube.com/watch?v=_UeqLR1fhO8 📺](https://www.youtube.com/watch?v=_UeqLR1fhO8)
 
@@ -67,9 +67,9 @@ YouTube Booster offers extensive session customization, allowing you to configur
 
 Since promotion should occur as naturally as possible, you need to create an artificial audience of viewers (bots) that will watch your videos. The audience will consist of browser profiles which will be controlled by YouTube Booster. All profiles will have unique fingerprints (browser and system fingerprints). Each profile for YouTube will look like a separate, unique viewer.
 
-**YouTube Booster uses 2 types of profiles:**
+**YouTube Sub Bot uses 2 types of profiles:**
 
-- **Profiles with Google accounts.** These are the profiles that are authorized in the Gmail account. Youtube will treat these profiles as users logged into their Google (YouTube) account. Causes more trust from Youtube, allows to increase likes, comments, subscribers, etc.
+- **Profiles with Google accounts.** These are the profiles that are authorized in the Gmail account. Youtube will treat these profiles as users logged into their Google (YouTube) account. Causes more trust from YouTube, allows to increase likes, comments, subscribers, etc.
 - **Incognito profiles.** These are simply profiles that are NOT authorized in a Gmail account. YouTube will treat them as regular viewers without a Google (YouTube) account. This type of profile only allows you to watch videos. Likes, subscriptions, etc. will not work. However, this is absolutely normal, because many of us also use YouTube without an account.
 
 For more naturalness, we will use both types of profiles at the same time. I recommend generating profiles in the following proportion: 60-70% Google profiles, 30-40% incognito profiles.
